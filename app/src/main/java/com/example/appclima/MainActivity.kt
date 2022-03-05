@@ -10,8 +10,8 @@ import com.android.volley.Response
 import com.android.volley.toolbox.StringRequest
 import com.android.volley.toolbox.Volley
 import com.example.solicitudeshttp.Network
-import com.google.gson.Gson
 import java.lang.Exception
+import com.google.gson.Gson
 
 class MainActivity : AppCompatActivity() {
 
